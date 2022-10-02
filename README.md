@@ -22,3 +22,5 @@ In this project, I will build end-to-end Web3 dapps on the Algorand Blockchain t
 # What Is Algorand?
 Algorand (ALGO) is both a digital currency and blockchain platform. The Algorand platform is designed to process many transactions quickly, similar to major payment processors like Mastercard or Visa. In addition, Algorand can host other cryptocurrencies and blockchain-based projects, making it a direct competitor to Ethereum. ALGO, the platform's native currency, is used to secure the Algorand blockchain and pay processing fees for Algorand-based transactions.
 Algorand is an open-source blockchain, meaning anyone can view and contribute to the platform's code. Algorand uses an operating protocol it calls pure proof-of-stake (PPoS), which recruits network validators from the pool of users.
+
+![Screenshot from 2022-10-02 16-54-12](https://user-images.githubusercontent.com/110843414/193472995-1bfb7e9e-3c17-47ab-9b30-c25d9777a478.png)
